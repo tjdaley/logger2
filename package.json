@@ -1,0 +1,40 @@
+{
+  "name": "@thomasjdaley/logger",
+  "version": "1.0.2",
+  "description": "JDBOT Logger Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjdaley/logger.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": {
+    "name": "Thomas J. Daley, J.D.",
+    "email": "tjd@powerdaley.com"
+  },
+  "_npmuser": {
+    "name": "thomasjdaley",
+    "email": "tjd@powerdaley.com"
+  },
+  "maintainers": {
+    "name": "Thomas J. Daley",
+    "email": "tjd@powerdaley.com"
+  },
+  "engines": {
+    "node": "^6.10.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjdaley/logger/issues"
+  },
+  "homepage": "https://github.com/tjdaley/logger#readme",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "bunyan-prettystream": "^0.1.3"
+  }
+}
