@@ -1,6 +1,6 @@
 {
   "name": "@thomasjdaley/logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JDBOT Logger Package",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tjdaley/logger.git"
+    "url": "git+https://github.com/tjdaley/logger2.git"
   },
   "keywords": [
     "logging"

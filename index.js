@@ -13,7 +13,7 @@ let _log         = undefined;
 
 module.exports =
     {
-        getLogger: function (packageName, packageVersion)
+        getLogger: function (packageName = process.title, packageVersion = '0.0.0')
         {
             const myPackage = {name: packageName, version: packageVersion};
 
